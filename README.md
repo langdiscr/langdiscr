@@ -1,1 +1,1 @@
-### This repo will be replaced with a not anonymized one after the publication
+This repo was an anonymized version of the codes used in the paper *The language of discrimination: Assessing attention discrimination by Hungarian local governments* and was built only for temporary use during the anonymized review process. To access the final repository click [__here__](https://github.com/RC2S2/langdiscr).
